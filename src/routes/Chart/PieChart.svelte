@@ -82,7 +82,7 @@
     <div class="flex justify-between items-start w-full">
       <div class="flex-col items-center">
         <div class="flex items-center mb-1">
-          <h5 class="text-xl font-bold leading-none text-gray-900 dark:text-white me-1">Website traffic</h5>
+          <h5 class="text-xl font-bold leading-none text-gray-900 dark:text-white me-1">Temperatures pie Chart </h5>
           <InfoCircleSolid id="pie1" class="w-3.5 h-3.5 text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-white cursor-pointer ms-1" />
           <Popover triggeredBy="#pie1" class="text-sm text-gray-500 bg-white border border-gray-200 rounded-lg shadow-xs w-72 dark:bg-gray-800 dark:border-gray-600 dark:text-gray-400 z-10">
             <div class="p-3 space-y-2">
