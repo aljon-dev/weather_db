@@ -1,0 +1,303 @@
+{"level":"INFO","message":"[3:45:23.063 PM]: Creating new connection object"}
+{"level":"INFO","message":"[3:45:23.088 PM]: Creating Connection[id: c56b5c15-0479-44dd-9347-4d9af2f150ec] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[3:45:23.089 PM]: Connection[id: c56b5c15-0479-44dd-9347-4d9af2f150ec] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[3:45:23.090 PM]: Connection[id: c56b5c15-0479-44dd-9347-4d9af2f150ec] - connection object created successfully."}
+{"level":"INFO","message":"[3:45:23.092 PM]: Connection[id: c56b5c15-0479-44dd-9347-4d9af2f150ec] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[3:45:23.093 PM]: Connection[id: c56b5c15-0479-44dd-9347-4d9af2f150ec] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[3:45:23.094 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[3:45:23.099 PM]: No client config detected."}
+{"level":"INFO","message":"[3:45:23.100 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[3:45:23.102 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[3:45:23.111 PM]: Connection[id: c56b5c15-0479-44dd-9347-4d9af2f150ec] - connected successfully after 18.985500000002503 milliseconds"}
+{"level":"INFO","message":"[4:04:53.069 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:04:53.077 PM]: Creating Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:04:53.078 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:04:53.079 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connection object created successfully."}
+{"level":"INFO","message":"[4:04:53.081 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:04:53.082 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:04:53.089 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 8.085299999918789 milliseconds"}
+{"level":"INFO","message":"[4:04:53.767 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:04:53.785 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:04:53.797 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 29.82689999998547 milliseconds"}
+{"level":"INFO","message":"[4:04:57.023 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:04:57.024 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:04:57.024 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 0.6816999998409301 milliseconds"}
+{"level":"INFO","message":"[4:04:57.031 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:04:57.031 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:04:57.032 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 0.9166999999433756 milliseconds"}
+{"level":"INFO","message":"[4:04:59.894 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:04:59.894 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:04:59.895 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 1.3081999998539686 milliseconds"}
+{"level":"INFO","message":"[4:05:03.017 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:03.019 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:03.019 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 2.1215000001247972 milliseconds"}
+{"level":"INFO","message":"[4:05:06.007 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:06.007 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:06.008 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 0.9607000001706183 milliseconds"}
+{"level":"INFO","message":"[4:05:09.871 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:09.872 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:09.872 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 0.957399999955669 milliseconds"}
+{"level":"INFO","message":"[4:05:12.660 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:12.661 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:12.661 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 1.76769999996759 milliseconds"}
+{"level":"INFO","message":"[4:05:15.741 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:15.742 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:15.743 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 1.7532999999821186 milliseconds"}
+{"level":"INFO","message":"[4:05:19.201 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:19.202 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:19.202 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 1.390699999872595 milliseconds"}
+{"level":"INFO","message":"[4:05:22.262 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:22.262 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:22.263 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 0.8329999998677522 milliseconds"}
+{"level":"INFO","message":"[4:05:25.593 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:25.594 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:25.594 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 0.8395000000018626 milliseconds"}
+{"level":"INFO","message":"[4:05:28.700 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:28.700 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:28.701 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 0.832799999974668 milliseconds"}
+{"level":"INFO","message":"[4:05:32.664 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:32.665 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:32.665 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 1.3408999999519438 milliseconds"}
+{"level":"INFO","message":"[4:05:37.163 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:37.164 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:37.164 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 0.9142999998293817 milliseconds"}
+{"level":"INFO","message":"[4:05:40.327 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:40.328 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:40.329 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 1.38329999987036 milliseconds"}
+{"level":"INFO","message":"[4:05:40.339 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:40.339 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:40.340 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 0.8862999998964369 milliseconds"}
+{"level":"INFO","message":"[4:05:43.373 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:43.373 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:43.374 PM]: Connection[id: 7f5e5942-5707-43d5-8192-19f0db26ca4b] - connected successfully after 1.0209000001195818 milliseconds"}
+{"level":"INFO","message":"[4:05:57.168 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:05:57.191 PM]: Creating Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:05:57.192 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:05:57.194 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - connection object created successfully."}
+{"level":"INFO","message":"[4:05:57.202 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:57.204 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:05:57.204 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:57.207 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:05:57.209 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:05:57.213 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:05:57.989 PM]: No client config detected."}
+{"level":"INFO","message":"[4:05:57.989 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:05:57.991 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:05:57.997 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - connected successfully after 793.9489000000012 milliseconds"}
+{"level":"INFO","message":"[4:05:58.067 PM]: No client config detected."}
+{"level":"INFO","message":"[4:05:58.068 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:05:58.068 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:05:58.069 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - connected successfully after 867.0210000000006 milliseconds"}
+{"level":"INFO","message":"[4:06:18.872 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:06:18.874 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:06:18.876 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - connected successfully after 3.3423000000002503 milliseconds"}
+{"level":"INFO","message":"[4:06:22.846 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:06:22.847 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:06:22.848 PM]: Connection[id: 0d04fe1a-321d-4340-9021-f4f751557e7c] - connected successfully after 1.4867000000012922 milliseconds"}
+{"level":"INFO","message":"[4:06:33.685 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:06:33.719 PM]: Creating Connection[id: d2587fca-ef1b-4d5a-8211-752bbe4e293d] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:06:33.720 PM]: Connection[id: d2587fca-ef1b-4d5a-8211-752bbe4e293d] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:06:33.733 PM]: Connection[id: d2587fca-ef1b-4d5a-8211-752bbe4e293d] - connection object created successfully."}
+{"level":"INFO","message":"[4:06:33.754 PM]: Connection[id: d2587fca-ef1b-4d5a-8211-752bbe4e293d] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:06:33.756 PM]: Connection[id: d2587fca-ef1b-4d5a-8211-752bbe4e293d] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:06:33.757 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:06:33.784 PM]: No client config detected."}
+{"level":"INFO","message":"[4:06:33.785 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:06:33.787 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:06:33.803 PM]: Connection[id: d2587fca-ef1b-4d5a-8211-752bbe4e293d] - connected successfully after 49.41139999999996 milliseconds"}
+{"level":"INFO","message":"[4:06:43.628 PM]: Connection[id: d2587fca-ef1b-4d5a-8211-752bbe4e293d] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:06:43.631 PM]: Connection[id: d2587fca-ef1b-4d5a-8211-752bbe4e293d] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:06:43.632 PM]: Connection[id: d2587fca-ef1b-4d5a-8211-752bbe4e293d] - connected successfully after 3.6523999999990338 milliseconds"}
+{"level":"INFO","message":"[4:08:06.429 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:08:06.430 PM]: Creating Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:08:06.431 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:08:06.431 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connection object created successfully."}
+{"level":"INFO","message":"[4:08:06.433 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:06.433 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:06.435 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connected successfully after 1.663300000000163 milliseconds"}
+{"level":"INFO","message":"[4:08:16.213 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:16.214 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:16.215 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connected successfully after 1.6649000000033993 milliseconds"}
+{"level":"INFO","message":"[4:08:16.632 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:16.632 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:16.633 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connected successfully after 1.1222000000125263 milliseconds"}
+{"level":"INFO","message":"[4:08:20.036 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:20.037 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:20.037 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connected successfully after 1.8757000000041444 milliseconds"}
+{"level":"INFO","message":"[4:08:23.201 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:23.201 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:23.202 PM]: Connection[id: a4b8e8a5-a1ac-4992-9ed5-09ff6709dba9] - connected successfully after 1.4373999999952503 milliseconds"}
+{"level":"INFO","message":"[4:08:27.459 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:08:27.460 PM]: Creating Connection[id: 27c8a931-9645-4717-8415-9648657e1876] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:08:27.460 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:08:27.461 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connection object created successfully."}
+{"level":"INFO","message":"[4:08:28.620 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:28.621 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:28.623 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:28.624 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:28.626 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 6.46020000000135 milliseconds"}
+{"level":"INFO","message":"[4:08:28.627 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 6.421900000001187 milliseconds"}
+{"level":"INFO","message":"[4:08:28.706 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:28.708 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:28.708 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 1.950299999996787 milliseconds"}
+{"level":"INFO","message":"[4:08:28.996 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:28.997 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:28.997 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 1.1475999999966007 milliseconds"}
+{"level":"INFO","message":"[4:08:32.055 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:32.056 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:32.056 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 0.8872000000119442 milliseconds"}
+{"level":"INFO","message":"[4:08:35.591 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:35.592 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:35.593 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 1.3880999999964843 milliseconds"}
+{"level":"INFO","message":"[4:08:39.605 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:39.605 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:39.606 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 1.0610000000160653 milliseconds"}
+{"level":"INFO","message":"[4:08:42.437 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:42.437 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:42.437 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 0.6607999999832828 milliseconds"}
+{"level":"INFO","message":"[4:08:45.703 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:45.704 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:45.704 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 0.6272000000171829 milliseconds"}
+{"level":"INFO","message":"[4:08:49.118 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:49.119 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:49.119 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 0.6118999999889638 milliseconds"}
+{"level":"INFO","message":"[4:08:52.319 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:52.321 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:52.321 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 2.067200000019511 milliseconds"}
+{"level":"INFO","message":"[4:08:55.178 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:55.179 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:55.179 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 1.074399999983143 milliseconds"}
+{"level":"INFO","message":"[4:08:58.418 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:08:58.419 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:08:58.419 PM]: Connection[id: 27c8a931-9645-4717-8415-9648657e1876] - connected successfully after 1.5229999999864958 milliseconds"}
+{"level":"INFO","message":"[4:10:35.955 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:10:35.981 PM]: Creating Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:10:35.984 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:10:35.985 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connection object created successfully."}
+{"level":"INFO","message":"[4:10:36.009 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:10:36.010 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:10:36.011 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:10:36.015 PM]: No client config detected."}
+{"level":"INFO","message":"[4:10:36.016 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:10:36.018 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:10:36.024 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connected successfully after 15.619399999999587 milliseconds"}
+{"level":"INFO","message":"[4:10:36.582 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:10:36.583 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:10:36.583 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connected successfully after 1.8541999999997643 milliseconds"}
+{"level":"INFO","message":"[4:11:27.070 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:11:27.071 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:11:27.071 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connected successfully after 1.627599999999802 milliseconds"}
+{"level":"INFO","message":"[4:11:30.443 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:11:30.444 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:11:30.444 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connected successfully after 1.0290999999997439 milliseconds"}
+{"level":"INFO","message":"[4:11:33.759 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:11:33.760 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:11:33.760 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connected successfully after 0.8524999999935972 milliseconds"}
+{"level":"INFO","message":"[4:11:33.804 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:11:33.806 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:11:33.807 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connected successfully after 2.867899999997462 milliseconds"}
+{"level":"INFO","message":"[4:11:37.979 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:11:37.980 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:11:37.980 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connected successfully after 1.2419999999983702 milliseconds"}
+{"level":"INFO","message":"[4:12:30.056 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:12:30.057 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:12:30.058 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connected successfully after 1.7295999999914784 milliseconds"}
+{"level":"INFO","message":"[4:12:33.197 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:12:33.203 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:12:33.206 PM]: Connection[id: ad6adf6d-d48f-4b88-9b22-ae834884b7bb] - connected successfully after 8.937000000005355 milliseconds"}
+{"level":"INFO","message":"[4:12:47.178 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:12:47.201 PM]: Creating Connection[id: 5bb72051-dee4-4e34-b2c0-e19044e65914] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:12:47.202 PM]: Connection[id: 5bb72051-dee4-4e34-b2c0-e19044e65914] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:12:47.203 PM]: Connection[id: 5bb72051-dee4-4e34-b2c0-e19044e65914] - connection object created successfully."}
+{"level":"INFO","message":"[4:12:47.223 PM]: Connection[id: 5bb72051-dee4-4e34-b2c0-e19044e65914] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:12:47.226 PM]: Connection[id: 5bb72051-dee4-4e34-b2c0-e19044e65914] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:12:47.228 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:12:47.230 PM]: No client config detected."}
+{"level":"INFO","message":"[4:12:47.231 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:12:47.232 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:12:47.238 PM]: Connection[id: 5bb72051-dee4-4e34-b2c0-e19044e65914] - connected successfully after 14.293999999999869 milliseconds"}
+{"level":"INFO","message":"[4:12:47.772 PM]: Connection[id: 5bb72051-dee4-4e34-b2c0-e19044e65914] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:12:47.773 PM]: Connection[id: 5bb72051-dee4-4e34-b2c0-e19044e65914] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:12:47.774 PM]: Connection[id: 5bb72051-dee4-4e34-b2c0-e19044e65914] - connected successfully after 2.011800000000221 milliseconds"}
+{"level":"INFO","message":"[4:13:02.054 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:13:02.056 PM]: Creating Connection[id: 8011af99-3b73-4cda-a582-f1b729451b0f] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:13:02.058 PM]: Connection[id: 8011af99-3b73-4cda-a582-f1b729451b0f] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:13:02.059 PM]: Connection[id: 8011af99-3b73-4cda-a582-f1b729451b0f] - connection object created successfully."}
+{"level":"INFO","message":"[4:13:02.064 PM]: Connection[id: 8011af99-3b73-4cda-a582-f1b729451b0f] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:13:02.064 PM]: Connection[id: 8011af99-3b73-4cda-a582-f1b729451b0f] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:13:02.066 PM]: Connection[id: 8011af99-3b73-4cda-a582-f1b729451b0f] - connected successfully after 2.411599999999453 milliseconds"}
+{"level":"INFO","message":"[4:33:55.999 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:33:56.022 PM]: Creating Connection[id: e1e6db43-e17c-4617-890d-b4afd348956c] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:33:56.024 PM]: Connection[id: e1e6db43-e17c-4617-890d-b4afd348956c] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:33:56.024 PM]: Connection[id: e1e6db43-e17c-4617-890d-b4afd348956c] - connection object created successfully."}
+{"level":"INFO","message":"[4:33:56.082 PM]: Connection[id: e1e6db43-e17c-4617-890d-b4afd348956c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:33:56.084 PM]: Connection[id: e1e6db43-e17c-4617-890d-b4afd348956c] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:33:56.084 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:33:56.086 PM]: No client config detected."}
+{"level":"INFO","message":"[4:33:56.087 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:33:56.088 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:33:56.095 PM]: Connection[id: e1e6db43-e17c-4617-890d-b4afd348956c] - connected successfully after 12.992599999999584 milliseconds"}
+{"level":"INFO","message":"[4:36:38.945 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:36:38.973 PM]: Creating Connection[id: 569a2cc4-6580-4465-a521-5298c390e6cc] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:36:38.974 PM]: Connection[id: 569a2cc4-6580-4465-a521-5298c390e6cc] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:36:38.975 PM]: Connection[id: 569a2cc4-6580-4465-a521-5298c390e6cc] - connection object created successfully."}
+{"level":"INFO","message":"[4:36:39.000 PM]: Connection[id: 569a2cc4-6580-4465-a521-5298c390e6cc] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:36:39.002 PM]: Connection[id: 569a2cc4-6580-4465-a521-5298c390e6cc] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:36:39.004 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:36:39.006 PM]: No client config detected."}
+{"level":"INFO","message":"[4:36:39.007 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:36:39.008 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:36:39.017 PM]: Connection[id: 569a2cc4-6580-4465-a521-5298c390e6cc] - connected successfully after 17.501899999999296 milliseconds"}
+{"level":"INFO","message":"[4:43:57.202 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:43:57.274 PM]: Creating Connection[id: 0e61eb6c-366b-4d9b-aff9-ea74e12689be] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:43:57.275 PM]: Connection[id: 0e61eb6c-366b-4d9b-aff9-ea74e12689be] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:43:57.276 PM]: Connection[id: 0e61eb6c-366b-4d9b-aff9-ea74e12689be] - connection object created successfully."}
+{"level":"INFO","message":"[4:43:57.310 PM]: Connection[id: 0e61eb6c-366b-4d9b-aff9-ea74e12689be] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:43:57.312 PM]: Connection[id: 0e61eb6c-366b-4d9b-aff9-ea74e12689be] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:43:57.313 PM]: Trying to initialize Easy Logging"}
+{"level":"INFO","message":"[4:43:57.315 PM]: No client config detected."}
+{"level":"INFO","message":"[4:43:57.316 PM]: No config file path found. Client config will not be used."}
+{"level":"INFO","message":"[4:43:57.319 PM]: Easy Logging is disabled as no config has been found"}
+{"level":"INFO","message":"[4:43:57.328 PM]: Connection[id: 0e61eb6c-366b-4d9b-aff9-ea74e12689be] - connected successfully after 18.02940000000035 milliseconds"}
+{"level":"INFO","message":"[4:45:32.064 PM]: Creating new connection object"}
+{"level":"INFO","message":"[4:45:32.066 PM]: Creating Connection[id: e658accf-d33c-477c-bef8-9e157e77ace7] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[4:45:32.067 PM]: Connection[id: e658accf-d33c-477c-bef8-9e157e77ace7] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[4:45:32.068 PM]: Connection[id: e658accf-d33c-477c-bef8-9e157e77ace7] - connection object created successfully."}
+{"level":"INFO","message":"[4:45:32.071 PM]: Connection[id: e658accf-d33c-477c-bef8-9e157e77ace7] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[4:45:32.072 PM]: Connection[id: e658accf-d33c-477c-bef8-9e157e77ace7] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[4:45:32.074 PM]: Connection[id: e658accf-d33c-477c-bef8-9e157e77ace7] - connected successfully after 3.059500000003027 milliseconds"}
+{"level":"INFO","message":"[6:00:21.245 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:00:21.250 PM]: Creating Connection[id: 1f7041c0-87ff-4195-8726-b937cb7ea29e] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[6:00:21.252 PM]: Connection[id: 1f7041c0-87ff-4195-8726-b937cb7ea29e] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:00:21.253 PM]: Connection[id: 1f7041c0-87ff-4195-8726-b937cb7ea29e] - connection object created successfully."}
+{"level":"INFO","message":"[6:00:21.269 PM]: Connection[id: 1f7041c0-87ff-4195-8726-b937cb7ea29e] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:00:21.270 PM]: Connection[id: 1f7041c0-87ff-4195-8726-b937cb7ea29e] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[6:00:21.274 PM]: Connection[id: 1f7041c0-87ff-4195-8726-b937cb7ea29e] - connected successfully after 5.800199999473989 milliseconds"}
+{"level":"INFO","message":"[6:01:52.226 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:01:52.230 PM]: Creating Connection[id: 5ef7a2db-0aae-42d7-8f5f-ec30c7facd7c] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[6:01:52.231 PM]: Connection[id: 5ef7a2db-0aae-42d7-8f5f-ec30c7facd7c] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:01:52.232 PM]: Connection[id: 5ef7a2db-0aae-42d7-8f5f-ec30c7facd7c] - connection object created successfully."}
+{"level":"INFO","message":"[6:01:52.246 PM]: Connection[id: 5ef7a2db-0aae-42d7-8f5f-ec30c7facd7c] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:01:52.247 PM]: Connection[id: 5ef7a2db-0aae-42d7-8f5f-ec30c7facd7c] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[6:01:52.253 PM]: Connection[id: 5ef7a2db-0aae-42d7-8f5f-ec30c7facd7c] - connected successfully after 6.234899999573827 milliseconds"}
+{"level":"INFO","message":"[6:02:43.915 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:02:43.922 PM]: Creating Connection[id: 10316136-f6e1-4bf7-bb0a-3790691b84a7] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[6:02:43.923 PM]: Connection[id: 10316136-f6e1-4bf7-bb0a-3790691b84a7] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:02:43.925 PM]: Connection[id: 10316136-f6e1-4bf7-bb0a-3790691b84a7] - connection object created successfully."}
+{"level":"INFO","message":"[6:02:43.940 PM]: Connection[id: 10316136-f6e1-4bf7-bb0a-3790691b84a7] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:02:43.941 PM]: Connection[id: 10316136-f6e1-4bf7-bb0a-3790691b84a7] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[6:02:43.945 PM]: Connection[id: 10316136-f6e1-4bf7-bb0a-3790691b84a7] - connected successfully after 5.878200000151992 milliseconds"}
+{"level":"INFO","message":"[6:04:43.006 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:04:43.008 PM]: Creating Connection[id: e46552bf-bb72-48ca-b5d8-c251920f3b19] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[6:04:43.014 PM]: Connection[id: e46552bf-bb72-48ca-b5d8-c251920f3b19] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:04:43.016 PM]: Connection[id: e46552bf-bb72-48ca-b5d8-c251920f3b19] - connection object created successfully."}
+{"level":"INFO","message":"[6:04:43.020 PM]: Connection[id: e46552bf-bb72-48ca-b5d8-c251920f3b19] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:04:43.021 PM]: Connection[id: e46552bf-bb72-48ca-b5d8-c251920f3b19] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[6:04:43.034 PM]: Connection[id: e46552bf-bb72-48ca-b5d8-c251920f3b19] - connected successfully after 14.585400000214577 milliseconds"}
+{"level":"INFO","message":"[6:04:58.221 PM]: Creating new connection object"}
+{"level":"INFO","message":"[6:04:58.223 PM]: Creating Connection[id: 4ae78b69-d513-4762-a740-3959ddf8002e] with host: PCWGGOH-UR97942.snowflakecomputing.com, account: PCWGGOH-UR97942, accessUrl: https://PCWGGOH-UR97942.snowflakecomputing.com, user: ALJONSKI34, role: ACCOUNTADMIN, database: ACCUWEATHERSAMPLE3, schema: PUBLIC, warehouse: COMPUTE_WH, proxy was not configured, password is provided, region: undefined, authenticator: SNOWFLAKE, ocsp mode: FAIL_OPEN, os: win32, os version: 10.0.19045"}
+{"level":"INFO","message":"[6:04:58.224 PM]: Connection[id: 4ae78b69-d513-4762-a740-3959ddf8002e] additional details: passcode in password is provided, passcode is not provided, private key is not provided, application: undefined, client name: snowflake-sdk, client version: 2.0.3, retry timeout: 300, private key path: undefined, private key pass is not provided, client store temporary credential: false, browser response timeout: 120000"}
+{"level":"INFO","message":"[6:04:58.224 PM]: Connection[id: 4ae78b69-d513-4762-a740-3959ddf8002e] - connection object created successfully."}
+{"level":"INFO","message":"[6:04:58.238 PM]: Connection[id: 4ae78b69-d513-4762-a740-3959ddf8002e] - connecting. Associated Snowflake domain: GLOBAL"}
+{"level":"INFO","message":"[6:04:58.238 PM]: Connection[id: 4ae78b69-d513-4762-a740-3959ddf8002e] - authentication successful using: SNOWFLAKE"}
+{"level":"INFO","message":"[6:04:58.240 PM]: Connection[id: 4ae78b69-d513-4762-a740-3959ddf8002e] - connected successfully after 2.852500000037253 milliseconds"}
