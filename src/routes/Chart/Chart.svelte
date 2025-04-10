@@ -1,4 +1,5 @@
 <script lang="ts">
+  // @ts-ignore
 	import { Chart, Button } from 'flowbite-svelte';
   
 	let { data } = $props();
@@ -41,7 +42,7 @@
 		},
 		dataLabels: {
 			enabled: true,
-			formatter: (val) => `${val}°C`,
+			formatter: (val:number) => `${val}°C`,
 			style: { colors: ["#fff"] },
 			offsetX: 10
 		},
@@ -51,12 +52,12 @@
 			color: '#e81313'
 		}],
 		xaxis: {
-			labels: { formatter: (val) => `${val}°C` },
+			labels: { formatter: (val:number) => `${val}°C` },
 			axisBorder: { show: false },
 			axisTicks: { show: false }
 		},
 		yaxis: {
-      labels: { formatter: (val) => `${countryCodes[val -1]}` },
+      labels: { formatter: (val:number) => `${countryCodes[val -1]}` },
 
        
 			
@@ -74,8 +75,8 @@
 		tooltip: {
 			enabled: true,
 			y: {
-				formatter: (val) => `${val}°C`,
-				title: { formatter: (seriesName) => seriesName }
+				formatter: (val:number) => `${val}°C`,
+				title: { formatter: (seriesName:any) => seriesName }
 			}
 		}
 	});
@@ -98,7 +99,7 @@
 	<div class="flex justify-between items-center mb-4">
 		<div>
 			<h5 class="text-xl font-bold text-gray-900 dark:text-white">
-				Top {itemsPerPage} Temperatures (Page {currentPage}/{totalPages})
+				 {itemsPerPage} Temperatures (Page {currentPage}/{totalPages})
 			</h5>
 		</div>
 		
