@@ -99,7 +99,7 @@
 	<div class="flex justify-between items-center mb-4">
 		<div>
 			<h5 class="text-xl font-bold text-gray-900 dark:text-white">
-				 {itemsPerPage} Temperatures (Page {currentPage}/{totalPages})
+			 Temperatures (Page {currentPage}/{totalPages})
 			</h5>
 		</div>
 		
