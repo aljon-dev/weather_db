@@ -6,13 +6,36 @@
 		TableBodyRow,
 		TableHead,
 		TableHeadCell,
-		Navbar
+		Navbar,
+		Button
 	} from 'flowbite-svelte';
 	import Chart from './Chart/Chart.svelte';
 
 	let { data } = $props();
 
-	function formatDate(dateString: string) {
+	// State for sorting
+	let sortDirection = $state<'asc' | 'desc'>('desc');
+	let sortedWeatherData = $state(data.WEATHER_DATA ?? []);
+
+	// Function to toggle sort direction
+	function toggleSort() {
+		sortDirection = sortDirection === 'desc' ? 'asc' : 'desc';
+		sortData();
+	}
+
+	// Function to sort data
+	function sortData() {
+		sortedWeatherData = [...data.WEATHER_DATA ?? []].sort((a, b) => {
+			return sortDirection === 'desc' 
+				? b.TEMPERATURE_REALFEEL_AVG - a.TEMPERATURE_REALFEEL_AVG 
+				: a.TEMPERATURE_REALFEEL_AVG - b.TEMPERATURE_REALFEEL_AVG;
+		});
+	}
+
+	// Initial sort
+	sortData();
+
+	const  formatDate = (dateString: string) => {
 		const date = new Date(dateString);
 		const month = date.toLocaleString('default', { month: 'long' });
 		const day = date.getDate();
@@ -20,10 +43,9 @@
 		return `${month} ${day}, ${year}`;
 	}
 
-	const formateTemperature = (Temperature) => {
+	const formateTemperature = (Temperature:any) => {
 		return `${Math.round(((Temperature - 32) * 5) / 9)}°C`;
 	};
-	let numberOfCountries = $state(0);
 </script>
 
 <Navbar class="bg-slate-500">
@@ -43,11 +65,22 @@
 					<TableHeadCell>Wind</TableHeadCell>
 					<TableHeadCell>Visibility</TableHeadCell>
 					<TableHeadCell>Date</TableHeadCell>
-					<TableHeadCell>Temperature</TableHeadCell>
+					<TableHeadCell>
+						<div class="flex items-center gap-1">
+							<span>Temperature</span>
+							<Button size="xs" onclick={toggleSort} class="p-1">
+								{#if sortDirection === 'desc'}
+									↓ Highest to Lowest
+								{:else}
+									↑ Lowest to Highest
+								{/if}
+							</Button>
+						</div>
+					</TableHeadCell>
 				</TableHead>
 
 				<TableBody tableBodyClass="divide-y">
-					{#each data.WEATHER_DATA ?? [] as Weather}
+					{#each sortedWeatherData as Weather}
 						<TableBodyRow>
 							<TableBodyCell>{Weather.COUNTRY_CODE}</TableBodyCell>
 							<TableBodyCell>{Weather.CITY_NAME}</TableBodyCell>
