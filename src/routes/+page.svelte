@@ -7,9 +7,11 @@
 		TableHead,
 		TableHeadCell,
 		Navbar,
-		Button
+		Button,
+		NavBrand
 	} from 'flowbite-svelte';
 	import Chart from './Chart/Chart.svelte';
+	import logo from '$lib/SnowFlakeLogo.png';
 
 	let { data } = $props();
 
@@ -25,9 +27,9 @@
 
 	// Function to sort data
 	function sortData() {
-		sortedWeatherData = [...data.WEATHER_DATA ?? []].sort((a, b) => {
-			return sortDirection === 'desc' 
-				? b.TEMPERATURE_REALFEEL_AVG - a.TEMPERATURE_REALFEEL_AVG 
+		sortedWeatherData = [...(data.WEATHER_DATA ?? [])].sort((a, b) => {
+			return sortDirection === 'desc'
+				? b.TEMPERATURE_REALFEEL_AVG - a.TEMPERATURE_REALFEEL_AVG
 				: a.TEMPERATURE_REALFEEL_AVG - b.TEMPERATURE_REALFEEL_AVG;
 		});
 	}
@@ -35,21 +37,24 @@
 	// Initial sort
 	sortData();
 
-	const  formatDate = (dateString: string) => {
+	const formatDate = (dateString: string) => {
 		const date = new Date(dateString);
 		const month = date.toLocaleString('default', { month: 'long' });
 		const day = date.getDate();
 		const year = date.getFullYear();
 		return `${month} ${day}, ${year}`;
-	}
+	};
 
-	const formateTemperature = (Temperature:any) => {
+	const formateTemperature = (Temperature: any) => {
 		return `${Math.round(((Temperature - 32) * 5) / 9)}°C`;
 	};
 </script>
 
 <Navbar class="bg-slate-500">
-	<span class="text-lg font-medium text-white"> Weather Dashboard 2022 Record </span>
+	<NavBrand
+		><img src={logo} height="100" width="100" />
+		<span class="text-lg font-medium text-white"> Weather Dashboard 2022 Record </span>
+	</NavBrand>
 </Navbar>
 
 <div class="flex grid w-full grid-cols-1 flex-col justify-center">
