@@ -1,19 +1,19 @@
 import snowflake from 'snowflake-sdk';
 
 let isConnected: boolean = false;
-const account = import.meta.env.VITE_SNOWFLAKE_ACCOUNT ;
-const username = import.meta.env.VITE_SNOWFLAKE_USERNAME ;
-const password = import.meta.env.VITE_SNOWFLAKE_PASSWORD ;
-const schema = import.meta.env.VITE_SNOWFLAKE_SCHEMA  ;
-const role = import.meta.env.VITE_SNOWFLAKE_ROLE ;
-const database = import.meta.env.VITE_SNOWFLAKE_DB ;
+const account = import.meta.env.VITE_SNOWFLAKE_ACCOUNT;
+const username = import.meta.env.VITE_SNOWFLAKE_USERNAME;
+const password = import.meta.env.VITE_SNOWFLAKE_PASSWORD;
+const schema = import.meta.env.VITE_SNOWFLAKE_SCHEMA;
+const role = import.meta.env.VITE_SNOWFLAKE_ROLE;
+const database = import.meta.env.VITE_SNOWFLAKE_DB;
 
 
 export const connection = snowflake.createConnection({
     account: account,
     username: username,
     password: password,
-    role:  role,
+    role: role,
     database: database,
     schema: schema,
     warehouse: 'COMPUTE_WH',
